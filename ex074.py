@@ -1,0 +1,11 @@
+import random
+a = random.randint(0,10)
+b = random.randint(0,10)
+c = random.randint(0,10)
+d = random.randint(0,10)
+e = random.randint(0,10)
+tupla = (a, b, c, d, e)
+menor = min(tupla)
+maior = max(tupla)
+print(f'foram sorteados os valor: {a, b, c, d, e}. O menor valor foi: {menor} e o maior valor foi: {maior}')
+print(a)

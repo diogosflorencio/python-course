@@ -1,0 +1,6 @@
+classificao= ('Palmeiras','Internacional','Fluminense','Corinthians','Flamengo','Athletico-PR','Atlético-MG','Fortaleza','São Paulo','América-MG','Botafogo','Chapecoense','Goiás','Bragantino','Coritiba','Cuiabá','Ceará','Atlético-GO','Avaí','Juventude')
+print(f'Os primeiros cinco colocados são: {classificao[:5]}')
+print(f'Os últimos quatro colocados são: {classificao[-4:]}')
+print(f'Os times em ordem alfabetica: {sorted(classificao)}')
+chapeco = classificao.index('Chapecoense')
+print(f'O time da Chapecoense se encontra na posição {chapeco+1}ª')
