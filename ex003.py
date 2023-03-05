@@ -1,3 +1,5 @@
+#expressões com variáveis
+
 cor = '\033[1;31;40m'
 coroff = '\033[m'
 print(f'{cor}=== desafio 3 ==={coroff}')
