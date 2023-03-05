@@ -1,4 +1,4 @@
-#primeira experiência com variáveis em python
+#primeira experiência com python
 
 cor = '\033[1;31;40m'
 coroff = '\033[m'
