@@ -1,6 +1,6 @@
 #ler número inteiro qualquer e mostrar sua tabuada
 
-n1 = int(input('digite um número para saber sua taboada: '))
+n1 = int(input('digite um número para saber sua tabuada: '))
 print('')
 print('='*12)
 print(f'a taboada de {n1} é:'
