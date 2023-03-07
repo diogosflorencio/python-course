@@ -1,4 +1,4 @@
-#fazer um programa que qualcula a area de uma parede e mostrar qual a quantidade de tinta em litros é necessaria para pinta-lá, sabendo que cada litro de tinta pinta 2m²
+#fazer um programa que calcula a area de uma parede e mostrar qual a quantidade de tinta em litros é necessaria para pinta-lá, sabendo que cada litro de tinta pinta 2m²
 
 print('para saber quantos litros de tinta são necessarios para pintar qualquer parece, primeiro digite o comprimento e a largura da mesma.')
 n1 = float(input('digite o comprimento da parede: '))
