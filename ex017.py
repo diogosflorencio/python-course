@@ -1,3 +1,5 @@
+#cateto oposto e adjacente
+
 import math
 from math import sqrt
 catetoO = float(input('digite o valor do cateto oposto: '))
