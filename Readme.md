@@ -1,1 +1,1 @@
-Olá, esses são meus exercícios resolvidos dos três modulos do curso de python no Curso em Vídeo!
+Este é o meu repositório do curso de Python que fiz no Curso em Vídeo com o professor Guanabara. Foi o meu ponto de partida no mundo da programação e em Python em particular. Aqui você encontrará projetos, exercícios e exemplos de código que aprendi durante o curso. Sinta-se à vontade para explorar os códigos que fiz em minha rota de aprendizagem inicial!
