@@ -1,3 +1,5 @@
+#valor do aluguel de carro (que variaveis são essas kkkk)
+
 VDC = int(input('Qual o valor da diária deste aluguel? '))
 VKMC = float(input(' Qual custo no aluguel por KM rodados? '))
 D = int(input('quantos dias vc ficou com o carro? '))
