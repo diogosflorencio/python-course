@@ -1,3 +1,5 @@
+#usando random
+
 import random
 aluno1 = input('nome do aluno 1: ')
 aluno2 = input('nome do aluno 2: ')
