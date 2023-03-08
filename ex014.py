@@ -1,3 +1,5 @@
+#converter temperatura de C para K e F
+
 cx = int(input('Qual a temperatura em Cº? '))
 F = (cx*1.8)+32
 K = cx+273.15
