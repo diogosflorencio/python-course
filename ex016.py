@@ -1,3 +1,5 @@
+#usando biblioteca 
+
 import math
 from math import floor
 
