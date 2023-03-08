@@ -1,3 +1,5 @@
+#usando random e shuffle from math
+
 import random
 import math
 aluno1 = str(input('nome do aluno 1: '))
