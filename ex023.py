@@ -1,4 +1,4 @@
-#programa que lê um numero entre 0 e 9999 e mostre ele separadamente
+#programa que lê um numero entre 0 e 9999 e mostre ele separadamente. unidade, dezena, centena
 
 numero = input('Digite um número: ')
 quantidade = len(numero)
