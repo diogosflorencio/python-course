@@ -1,4 +1,5 @@
 #fazer programa que le quantas vezes aparece a letra A, em que posição ela aparece na primeira vez e na ultima
+
 frase = input('esscreva uma frase: ').strip().upper()
 frase1 = frase.count('A')
 print(f'a frase tem {frase1} As')
