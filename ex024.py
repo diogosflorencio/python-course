@@ -4,6 +4,7 @@ cidade = cidade.lower()
 cidade = cidade.split()
 cidade = cidade[0]
 cidade = cidade.find('santo')
+print(cidade)
 if cidade == 0:
         print('sim, tem santo')
 
