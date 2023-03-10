@@ -28,7 +28,7 @@ print(frase.lower())
 print(frase.capitalize())
 print(frase.title())
 
-frase2 = '    diougu da              silva florencio    '
+frase2 = '    diougu da              silva f    '
 
 print(frase2.strip())
 print(frase2.rstrip())
