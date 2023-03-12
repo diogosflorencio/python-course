@@ -1,3 +1,5 @@
+#radar
+
 velo = float(input('Qual a velocidade do carro? '))
 if velo > 80:
     veloamais = velo-80
