@@ -1,3 +1,5 @@
+#verificando se é ímpar ou par
+
 num = int(input('núm par ou ímpar: '))
 #print('ímpar' if num[-1] in ('1', '3', '5', '7', '9') else 'par')
 resultado = num % 2
