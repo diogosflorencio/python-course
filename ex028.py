@@ -1,8 +1,4 @@
-#qts = int(input('qual a quantidade de paredes (máximo 2)? '))
-#if qts == 1:
-#  igual = input('essa parede tem todos os lados iguais? ')
-#if qts == 2:
-#  iguais = input('essas paredes têm todos os lados igual? ')
+#jogo da adivinhação 
 
 from random import randint
 from time import sleep
