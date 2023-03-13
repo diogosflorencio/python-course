@@ -1,3 +1,5 @@
+#o maior e menor valor 
+
 n1 = int(input('número 1: '))
 n2 = int(input('número 2: '))
 n3 = int(input('número 3: '))
