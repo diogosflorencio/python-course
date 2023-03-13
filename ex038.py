@@ -1,4 +1,4 @@
-#qual valor é maior, menor ou igual?
+#maior, menor ou igual
 
 num1 = int(input('digite um valor: '))
 num2 = int(input('digite outro valor: '))
