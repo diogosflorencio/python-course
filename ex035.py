@@ -1,3 +1,5 @@
+#pode ser um triângulo?
+
 reta1 = float(input('primeira reta: '))
 reta2 = float(input('segunda reta: '))
 reta3 = float(input('terceira reta: '))
