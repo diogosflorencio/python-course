@@ -1,3 +1,5 @@
+#aprovado ou reprovado?
+
 nota1 = float(input('qual sua primeira nota? '))
 nota2 = float(input('qual seu segunda nota? '))
 media = (nota1+nota2)/2
