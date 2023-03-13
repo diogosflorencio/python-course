@@ -1,3 +1,5 @@
+#aumento salarial 
+
 salario = float(input('qual seu salario? '))
 if salario > 1250:
     print(f'seu salario aumentou 10%, agora é: {((10/100)*salario)+salario}')
