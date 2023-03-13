@@ -1,4 +1,7 @@
+#desafio do alistamento
+
 import datetime
+
 anoatual = datetime.date.today().year
 nascimento = int(input('Em qual ano tu nascestes? '))
 sexo = input('Vc é homem ou mulher? [M] MULHER, [H] HOMEM: ')
